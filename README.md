@@ -1,1 +1,3 @@
-# this is first blog
+# Headline
+
+> An awesome project.
