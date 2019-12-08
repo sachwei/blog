@@ -8,5 +8,5 @@
 * Not build static html files
 
 [GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#quick-start)
+[Get Started](/home1)
 [Get Started](#quick-start)
