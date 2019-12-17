@@ -3,10 +3,6 @@
 ## 个人文档网站
 > 一个神奇的文档网站生成巩固
 
-* Simple and lightweight (~12kb gzipped)
-* Multiple themes
-* Not build static html files
-
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](/home1)
-[Get Started](#quick-start)
+[GitHub](https://github.com/sachwei)
+[Get Started](/home)
+[Get Started](https://sachwei.github.io/docs/)
