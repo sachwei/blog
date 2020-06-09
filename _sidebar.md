@@ -10,6 +10,7 @@
   - [nginx安装](/docker/docker安装nginx)
 - java
   - [jndi](/jndi/jndi)
+  - [高并发](/java/高并发)
 - 微服务
   - springboot
     - [入门](/springboot/入门)
