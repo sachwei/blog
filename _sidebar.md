@@ -4,8 +4,12 @@
 - 语言
   - [markdown语法](/markdown/markdown语法)
 - Linux
-  - [shell](/linux/shell)
-  - [vi/vim](/linux/vivim)
+  - 命令
+    - [shell](/linux/shell)
+    - [vi/vim](/linux/vivim)
+  - 环境搭建
+    - [虚拟机安装](/linux/环境搭建/虚拟机安装linux)
+    - [部署环境搭建](/linux/环境搭建/部署环境搭建)
 - docker
   - [nginx安装](/docker/docker安装nginx)
 - java
