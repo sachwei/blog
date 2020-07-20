@@ -5,8 +5,8 @@
   - [markdown语法](/markdown/markdown语法)
 - Linux
   - 命令
-    - [shell](/linux/shell)
-    - [vi/vim](/linux/vivim)
+    - [shell](/linux/命令/shell)
+    - [vi/vim](/linux/命令/vivim)
   - 环境搭建
     - [虚拟机安装](/linux/环境搭建/虚拟机安装linux)
     - [部署环境搭建](/linux/环境搭建/部署环境搭建)
